@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Self-learning
 layout: home
 nav_order: 2
 ---
