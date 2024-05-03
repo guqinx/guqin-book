@@ -1,5 +1,5 @@
 ---
-title: Self-learning
+title: Meet your Guqin
 layout: home
 nav_order: 2
 ---
