@@ -1,11 +1,11 @@
-title: GuqinX
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Guqin
+description: For Global Learners
 theme: just-the-docs
 
 url: https://guqinx.com
 
-aux_links:
-  Find Tablature: https://guqintab.com
+# aux_links:
+#  Find Tablature: https://guqintab.com
 
 # Footer content
 # appears at the bottom of every page's main content
