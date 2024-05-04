@@ -3,13 +3,9 @@ title: How to learn Guqin
 layout: home
 nav_order: 1
 ---
+# Motivation to write this book
+Many people who have listened to the Guqin feel inspired to learn how to play it.However, most people encounter difficulties in the initial stages.  
+"How to choose a guqin?""How to read the Guqin's special notation system, 'JianZiPu,' which is written in unique Chinese characters.""Can I learn playing Guqin by myself?"  
+These questions are the reasons why I am writing this book.
 
-The [Guqin] (Chinese: 古琴) is a plucked seven-string Chinese musical instrument. It has been played since ancient times, and has traditionally been favoured by scholars and literati as an instrument of great subtlety and refinement, as highlighted by the quote "a gentleman does not part with his qin or se without good reason,"[1] as well as being associated with the ancient Chinese philosopher Confucius. It is sometimes referred to by the Chinese as "the father of Chinese music" or "the instrument of the sages". The guqin is not to be confused with the guzheng, another Chinese long stringed instrument also without frets, but with moveable bridges under each string.
-
-
-
-----
-
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
-
-[Guqin]: https://en.wikipedia.org/wiki/Guqin
+# How to use this book
