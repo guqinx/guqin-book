@@ -6,9 +6,9 @@ nav_order: 4
 # Guqin Etiquette
 
 ## Place the Guqin
-The guqin, being a multi-stringed instrument, is not as compact as the three-stringed pipa and cannot be comfortably held and played in one's arms. Instead, it must be placed on a table or desk to be played easily. Therefore, there are certain methods of placement.
+The guqin, being a multi-stringed instrument, cannot be comfortably held and played in one's arms. Instead, it must be placed on a table or desk to be played easily. Therefore, there are certain requirements for the placement.
 
-The head of the qin is on the right side, and the tail is on the left. The "fu zhang" and "zhen" are inserted into holes on the desk, while the "yan zu" is placed on the surface of the desk. This is the placement method used with specially made qin desks. When using a regular table, the "fu zhang" and "zhen" should hang down from the side of the table, leaving a space of about three to four fingers' width from the table, making it easier to rotate the "zhen." 
+The head of Guqin is on the right side, and the tail is on the left. The "fu zhang" and "zhen" are inserted into holes on the desk, while the "yan zu" is placed on the surface of the desk. This is the placement method used with specially made qin desks. When using a regular table, the "fu zhang" and "zhen" should hang down from the side of the table, leaving a space of about three to four fingers' width from the table, making it easier to rotate the "zhen." 
 
 The body of the qin should lean against the edge of the table, not placed in the center, closer to the player's body, making it easier to reach the strings. 
 

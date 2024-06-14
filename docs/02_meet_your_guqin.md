@@ -188,7 +188,7 @@ The tail control is six fen deep (Tang Dynasty qin is seven fen deep from the ce
 The Tang Dynasty qin made by Lei Wei, "Crane Cries in Autumn Moon," is used as the benchmark for these measurements. It is one of the best-sounding qins among the surviving Tang Dynasty qins. These precise measurements are recorded in detail to serve as a standard for selecting qins. The actual measurements are based on traditional methods, cross-referencing qin scores to ensure practicality and reliability.
 
 # The Forms of Guqin
-古代造琴基本分为三类：  
-一是圣人造琴，如仲尼式、神农式、伏羲式等；  
-二是文人造琴，如落霞式、蕉叶式、连珠式等；  
-三是帝王造琴，如襄王琴、璐王琴等。
+Guqin forms are basically divided into three categories:
+1, Holy artificial , such as Zhongni form, Shennong form, Fuxi form, etc.;
+2, Literary artificial, such as Luoxia form, banana leaf form, Lianzhu form, etc.;
+3, Imperial artificial, such as Xiangwangqin, Luwangqin, etc.
